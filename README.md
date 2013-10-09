@@ -1,4 +1,4 @@
-Minus
+Mines
 =====
 
-扫雷游戏
+Minesweeper
